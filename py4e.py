@@ -18,4 +18,8 @@ for i in number:
     elif smallest_so_far >i:
         smallest_so_far = i
 
-print('Here we go:', count, largest_so_far, smallest_so_far, sum/count)
+print('Here we go: ')
+print('Total Counted numbers: ', count)
+print('Largest number: ', largest_so_far)
+print('Smallest number: ', smallest_so_far)
+print('Sum: ', sum/count) 
