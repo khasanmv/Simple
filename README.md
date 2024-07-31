@@ -1,1 +1,1 @@
-In this programm, I wanna solve the unique solution for pupils. 
+In this program, I wanna solve the unique solution for pupils. 
